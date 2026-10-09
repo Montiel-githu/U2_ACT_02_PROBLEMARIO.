@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "U2_ACT_02_PROBLEMARIO.": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
